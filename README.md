@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] # 🚀 Automated EC2 Instance with User Data & Basic Monitoring (CloudWatch)
+# 🚀 Automated EC2 Instance with User Data & Basic Monitoring (CloudWatch)
 
 This repository contains Infrastructure as Code (IaC) for deploying and automating an Amazon EC2 instance, complete with basic monitoring via AWS CloudWatch, using **Terraform**.
 
