@@ -159,29 +159,6 @@ To tear down all the AWS resources created by this project and avoid incurring f
 
    *This will ask for confirmation (`yes`). Be absolutely sure you want to delete all associated resources before proceeding.*
 
-## 🧠 Key Learnings & Interview Highlights
-
-This project provides invaluable hands-on experience for an Associate Cloud Engineer role, covering several key competencies:
-
-* **Core AWS Services (EC2 & CloudWatch):**
-
-  * "I gained direct experience deploying and configuring virtual servers (EC2 instances) and setting up essential monitoring (CloudWatch alarms) for operational health, which are fundamental to managing cloud infrastructure."
-
-* **Automation with User Data:**
-
-  * "I utilised EC2 user data to automate the bootstrapping of the instance, including installing a web server. This demonstrates practical automation skills, reducing manual effort and ensuring consistent instance configurations."
-
-* **Infrastructure as Code (IaC):**
-
-  * "Continuing my IaC journey, I used Terraform to define the entire EC2 deployment and monitoring setup. This reinforces the principles of repeatable, version-controlled, and declarative infrastructure management."
-
-* **Network Security Fundamentals:**
-
-  * "By configuring an EC2 Security Group, I applied fundamental network security principles, controlling inbound (SSH, HTTP, HTTPS) and outbound traffic to the instance, which is critical for protecting cloud resources."
-
-* **Operational Awareness & Monitoring:**
-
-  * "Implementing a CloudWatch CPU alarm showed my understanding of basic monitoring principles. It highlighted the importance of proactively identifying and alerting on potential performance bottlenecks in a cloud environment."
 
 ## 📄 Licence
 
